@@ -45,6 +45,6 @@ python analisis_delanteros_laliga2425.py
 ```
 
 ## Autor
-Tu Nombre  
+Manuel Murillo  
 [LinkedIn](https://www.linkedin.com/in/manuel-murillo91)  
 [GitHub](https://github.com/admur91-analytics)
